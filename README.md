@@ -7,7 +7,7 @@ A server with a pool of threads attends the clients request.
 Create the database by
 1. create database videojuegos;
 2. use videojuegos;
-3. source database.mysql;
+3. source database.sql;
 
 Compile the classes
  1. javac Cliente.java
